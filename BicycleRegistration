@@ -1,4 +1,4 @@
-public class BicycleRegistration
+class BicycleRegistration
 {
 	public static void main (String[] args ) {
 		

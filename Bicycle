@@ -1,4 +1,4 @@
-public class Bicycle
+ class Bicycle
 {
 	private String ownerName;
 	
